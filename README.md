@@ -5,7 +5,8 @@ This project aims to detect pneumonia from chest X-ray images using a Convolutio
 
 ![image](https://github.com/CodeByGirum/Chest-Xray-Pneumonia-Detection-Neural-Network-Model/assets/60083179/76fee3be-7559-4c6d-bfd8-7f6d01b4bb85)
 
-### Prediction Accuracy: Currently at 74%
+### Prediction Accuracy: Currently at 84%
+![image](https://github.com/CodeByGirum/Chest-Xray-Pneumonia-Detection-Neural-Network-Model/assets/60083179/d5239d49-abe2-4932-9c72-26a2be1fd31f)
 
 ## Data
 
