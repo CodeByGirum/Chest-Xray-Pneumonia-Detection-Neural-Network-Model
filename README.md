@@ -26,7 +26,10 @@ The dataset consisted of chest X-ray images divided into two main categories: NO
 
 ## Results
 
-- The CNN achieved an accuracy of approximately 74% on the validation dataset.
+- The CNN achieved an accuracy of approximately 84% on the validation dataset.
+
+![image](https://github.com/CodeByGirum/Chest-Xray-Pneumonia-Detection-Neural-Network-Model/assets/60083179/11c0095a-233a-4f95-a978-1a81a4963901)
+
 - The model tended to predict most test images as having pneumonia, indicating potential issues with class imbalance or model sensitivity.
 
 ## Discussion
